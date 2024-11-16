@@ -51,6 +51,8 @@ endmodule
 
 
 **RTL realization**
+![rtl](https://github.com/user-attachments/assets/f0d69f9e-19c3-4227-ad2c-89cfd7cf4fab)
+
 
 
 
